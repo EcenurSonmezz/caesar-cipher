@@ -1,4 +1,4 @@
-# caesar-cipher
+# caeser-cipher
 
 Bu uygulama, kullanıcıların metin girişi yaparak şifreleme ve şifre çözme işlemlerini gerçekleştirebilecekleri basit bir Java Swing uygulamasıdır. Serzar şifreleme yöntemi kullanılarak metinler şifrelenir ve çözülür.
 
